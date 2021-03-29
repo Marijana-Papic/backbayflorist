@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+			<title>Back Bay Florist</title>
+			<link>index.html</link>
+			<description>Florist</description>
+		<item>
+			<title>Shop</title>
+			<link>shop.html</link>
+			<description>Check out our new spring collection!</description>
+		</item>
+		<item>
+			<title>Shop</title>
+			<link>shop.html</link>
+			<description>Stay tuned, check out our best sellers!</description>
+		</item>
+	</channel>
+</rss>

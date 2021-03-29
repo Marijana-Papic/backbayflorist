@@ -1,0 +1,92 @@
+@media screen and (max-width: 1025px){
+    .c-cover{
+        height: 510px;
+    }
+    .about-text{
+        margin-top: 45px;
+    }
+    .mp-about-text{
+        margin-top: 60px;
+    }
+}
+@media screen and (max-width: 769px){
+    .heading h2{
+        font-size: 20px;
+	}
+    .shop-heading h2{
+        font-size: 20px;
+    }
+    .c-cover{
+        height: 385px;
+    }
+    .contact-form h1{
+        font-size: 23px;
+    }
+    .contact-us h3 {
+        font-size: 22px;
+    }
+    .mp-line-height{
+        line-height: 23px;
+    }
+    .about-text{
+        margin-top: 35px;;
+    }
+    .about-text h1{
+        font-size: 23px;
+        width: 55%;
+    }
+    .mp-about-text{
+        margin-top: 0px;
+    }
+}
+@media screen and (max-width: 426px){
+    .c-cover{
+        height: 475px;
+    }
+    .shop-heading h2{
+        width: 90%;
+    }
+    .contact-form h1{
+        font-size: 20px;
+        width: 80%;
+    }
+    .form-control{
+        font-size: 16px;
+    }
+    .btn{
+        padding: 4px;
+        font-size: 15px;
+    }
+    .about-text h1{
+        font-size: 20px;
+        width: 55%;
+    }
+    .about-text{
+        margin-top: 65px;;
+    }
+
+}
+@media screen and (max-width: 376px){
+    .c-cover{
+        height: 455px;
+    }
+    .form-control{
+        font-size: 13px;
+    }
+    .about-text{
+        margin-top: 45px;;
+    }
+    .about-text p{
+        font-size: 15px;
+        padding: 0px;
+    }
+}
+@media screen and (max-width: 321px){
+    .c-cover{
+        height: 445px;
+    }
+    .about-text{
+        margin-top: 25px;;
+    }
+    
+}
