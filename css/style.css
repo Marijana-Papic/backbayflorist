@@ -7,6 +7,7 @@
 }
 body{
     font-family: OpenSans-Light;
+	overflow-x: hidden;
 }
 ul{
     padding-inline-start: 0;
