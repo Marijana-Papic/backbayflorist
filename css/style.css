@@ -150,6 +150,9 @@ textarea{
     width: 40%;
     color: black;
 }
+.social{
+    margin-top: 4%;
+}
 .social li a{
     color: black;
 }
